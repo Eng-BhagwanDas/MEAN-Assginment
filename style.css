@@ -1,0 +1,109 @@
+/* header top */
+.h-top{
+    height: 48px;
+    background-color: #316dc3;
+}
+
+/*>>>>>>>>>> Social Icon Style <<<<<<<<< */
+.fa{
+    color: white;
+   
+    padding: 8px;
+    font-size: 13px;
+    text-align: center;
+    text-decoration: none;
+    width: 30px
+}
+.fa:hover {
+    transition-duration: 1s;
+    background-color: #316dd9;
+}
+
+.message{
+    color: white;
+    font-size: 15px;
+    padding-top: 12px;
+    justify-content: center;
+    text-align: center;
+}
+.col-btn{
+     padding-top:10px ;
+ }
+.col-bg{
+    background-color: #316dc3;
+    text-align: center;
+}
+.nav-row{
+    z-index: 1;
+    background-color: #F7F8FA;
+    height: 80px; 
+
+}
+.navbar{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.btn{
+    font-size: 11px;
+}
+.saylanilogo{
+    padding-left: 30px;
+    text-align: center;
+}
+
+.active{
+    background-color: #316dc3;
+    border-radius: 25px;
+}
+
+ /*>>>>>>> basic css <<<<<<< */
+ body{
+     margin: opx;
+     padding: px;
+     width: 100%;
+ }
+ ul{
+    margin: 9px 0px 0px 0px;
+}
+
+ li{
+    list-style: none;
+    display: inline;
+
+ }
+ section { 
+    display: block;
+    background-color: #f7f8fa;
+    text-align: center;
+  }
+.announcment{
+     margin-top:10px;
+     background-color:#316DC3 ;
+     color: white;
+}
+.img-title{
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+.content-body{
+    display: block;
+    margin-left:100px;
+    margin-right:100px;
+    line-height: 1.9;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+.progressbar{
+    background-color: #316dc3;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box {
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 2px 1px 9px 1px #ccc;
+}
+
